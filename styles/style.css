@@ -94,7 +94,7 @@ body{
     color: var(--cor-secundaria);
     font-family: var(--Montserrat);
 }
-.apresentacao__links__link:hover{
+.apresentacao__links__navegacao:hover{
     background-color: var(--cor-quarternaria);
     padding: 3.5%;
 }
